@@ -37,5 +37,3 @@ class Card
 
 end
 
-p a = Card.new(1, :hearts)
-p a.num_to_headcard(1)
